@@ -1,4 +1,4 @@
-# KVM CP
+# KVM CP (is no actual on November 2026)
 KVM CONTROL PANEL - is the simple bash script for managing KVM (Kernel-based Virtual Machine) modules in Linux.
 
 ## Description of script
